@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# ChromaDB
+chroma_db/
+
+# SQLite Database
+quiz_history.db
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
